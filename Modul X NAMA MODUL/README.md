@@ -22,8 +22,8 @@ func main() {
 ```
 
 > Output
-![Screenshot bagian x](output/screenshot_soal1.png)
-%% Untuk menyantumkan screenshot, tidak boleh ada spasi di urlnya `()` %%
+> ![Screenshot bagian x](output/screenshot_soal1.png)
+> %% Untuk mencantumkan screenshot, tidak boleh ada spasi di urlnya `()`, penamaan file bebas asal gak sara dan mudah dipahami aja,, dan jangan lupa hapus komen ini yah%%
 
 Penjelasan ttg kode kalian disini
 
@@ -40,7 +40,7 @@ func main() {
 ```
 
 > Output
-![Screenshot bagian x](output/screenshot_soal2A.png)
+> ![Screenshot bagian x](output/screenshot_soal2A.png)
 
 penjelasan kode
 
@@ -57,6 +57,6 @@ func main() {
 ```
 
 > Output
-![Screenshot bagian x](output/screenshot_soal2.png)
+> ![Screenshot bagian x](output/screenshot_soal2B.png)
 
 penjelasan bedanya sesuai soal
