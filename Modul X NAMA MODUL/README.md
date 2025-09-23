@@ -3,7 +3,7 @@
 
 ## Dasar Teori
 
-ngga usah panjang panjang kalau bisa satu paragfraf aja
+yang panjang dikit
 
 ## Unguided
 
@@ -66,3 +66,7 @@ func main() {
 > ![Screenshot bagian x](output/screenshot_soal2B.png)
 
 penjelasan bedanya sesuai soal
+
+## Referensi
+
+1. https://en.wikipedia.org/wiki/Data_structure (diakses blablabla)
