@@ -7,6 +7,12 @@ ngga usah panjang panjang kalau bisa satu paragfraf aja
 
 ## Unguided
 
+### soal 1
+
+aku mengerjakan perulangan
+
+## Unguided
+
 ### Soal 1
 
 copy paste soal nomor 1 disini
