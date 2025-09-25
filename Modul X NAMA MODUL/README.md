@@ -5,7 +5,7 @@
 
 yang panjang dikit
 
-## Unguided
+## Guided
 
 ### soal 1
 
